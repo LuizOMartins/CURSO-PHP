@@ -1,0 +1,30 @@
+mkdir -> criar pasta
+
+cd  >> entrar na pasta
+
+
+git init --> fazer da pasta um pasta de versionamento
+
+git add index.php  -->adiciona o arquivo a area de "envio"
+
+git add --all --> adiciona todos os arquivos a area de envio
+
+git commit -m ok
+
+git commit -m "frase que vai aparer com o arquivo"
+
+
+git remote add origin URL(do ditectorio)
+
+git config --global user.email "luidigastech@gmail.com"
+
+git config --global user.name "LuizOMartins"
+
+git push -u origin master
+
+Se der erro tentar com o codigo abaixo
+
+*****************************
+git pull origin master --allow-unrelated-histories
+git push -u origin master
+*****************************

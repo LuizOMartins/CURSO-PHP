@@ -1,0 +1,6 @@
+Composer: gerenciador de dependencias;
+
+composer.json:
+informações do projeto
+
+

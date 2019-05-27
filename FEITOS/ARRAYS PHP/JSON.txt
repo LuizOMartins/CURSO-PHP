@@ -1,0 +1,10 @@
+JSON:JavaScript Object Notation, é um formato compacto,
+de padrão aberto independente,
+de troca de dados simples e rápida entre sistemas.
+
+
+O PHP tem algumas funções internas para lidar com JSON.
+
+Objetos em PHP podem ser convertidos em JSON usando a função PHP json_encode () :
+
+json_decode --> JSON para array em PHP

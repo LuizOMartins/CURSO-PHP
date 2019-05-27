@@ -1,0 +1,2 @@
+namespace:  permite organizar nossas classes em um determinado diretorio.
+

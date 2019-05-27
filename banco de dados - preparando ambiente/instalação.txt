@@ -1,0 +1,9 @@
+instalação do xammp ja tinha sido realizada:
+
+algumas dependencias:
+.NET
+C++
+
+depois só instalar  WorkBench
+
+pasta dependencias MEGA

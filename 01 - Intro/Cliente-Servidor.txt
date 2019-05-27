@@ -1,0 +1,15 @@
+Requisição:  request (requisitar algo)
+
+Arquitetura Cliente/Servidor
+
+Response: respostas
+
+PHP: devolve um HTML
+
+request-response: pedido e resposta
+
+Toda linguagem tem seu frameork ou recurso para WEB
+
+java JSP
+
+python django

@@ -1,0 +1,34 @@
+Codigo que não retorna valor-  UMA ROTINA
+
+RETORNA VALOR - FUNÇÃO
+-------------------
+
+Parametros e argumentos : são valores que uma função precisa para funcionar
+corretamente.
+SEMPRE QUE UM ARGUMENTO FOR OBRIGATÓRIO, COLOCA-LO DO LADO ESQUERDO
+
+func_get_args();
+- pega os parametros passados para a função
+
+
+print_r() 
+
+
+paramtros dinamicos:
+function name(... $valores){}
+
+
+tipo do retorno:
+function name(... $valores):string{}
+
+ponteiro:
+
+function(&$valoers){}
+
+
+------
+ 
+Função recursiva:
+
+$_POST['olar'];
+olar é uma chave no array POST;

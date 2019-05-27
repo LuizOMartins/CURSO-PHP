@@ -1,0 +1,8 @@
+die; -> equivalente a função exit();
+
+
+print_r --> printa um arrray e sua estrutura
+
+
+Um arrray com uma dimensão é uum vetor, e uum array bidimensional
+é uma matriz.

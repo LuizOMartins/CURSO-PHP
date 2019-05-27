@@ -1,0 +1,6 @@
+localhost --> o servidor esta na propria maquina
+
+
+porta: onde esta
+
+PHP: personal home page

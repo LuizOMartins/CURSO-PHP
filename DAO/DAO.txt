@@ -1,0 +1,3 @@
+﻿DAO: data acess objetc
+// medoto prepare: Prepara uma instrução SQL para ser executada pelo método PDOStatement :: execute()
+// para usar o DAO é preciso projetar bem o sistema

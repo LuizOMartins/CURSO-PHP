@@ -1,0 +1,10 @@
+abstrata:
+-quando hedada os metodos podem sofrer o polimorfismo.
+- polismorfimo: quando uma classe herda outra e os metodos de mesmo nome sofre
+mudança.
+- metodos já são implementados 
+
+
+Interface:
+quando herdade o metodos devem ser implementados.
+- quando escrita não tem função nos metodos
