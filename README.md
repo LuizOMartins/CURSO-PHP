@@ -1,4 +1,4 @@
-# Repositório para armazenar projetos e anotações de estudos spbre PHP.
+# Repositório para armazenar projetos e anotações de estudos sobre PHP.
 
 
 
